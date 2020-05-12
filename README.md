@@ -15,7 +15,7 @@ Naming standard is:
 
  - URL friendly (no characters that require % signs in the URL or similar)
  - Human readable
- - U.S. English
+ - U.S. English  
  - Pascal case
 
 ## URL structure
